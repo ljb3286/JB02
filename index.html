@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
 	<title>첫 과제</title>
 	<link href="https://fonts.googleapis.com/css?family=Noto+Serif+KR" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Stylish" rel="stylesheet">
